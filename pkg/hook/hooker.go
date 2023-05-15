@@ -1,7 +1,7 @@
 package hook
 
 import (
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/sbk0716/sample-echo-rest-api/pkg/logger"
 )
 
 type HookerInterface interface {
